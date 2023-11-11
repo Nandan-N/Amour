@@ -1,2 +1,0 @@
-import libwyag
-libwyag.main()
